@@ -8,4 +8,4 @@ Disallow: /js/
 Disallow: /css/
 Disallow: /fonts/
 
-Sitemap: https://phantomT.github.io/sitemap.xml
+Sitemap: https://fantasticsea.github.io/sitemap.xml
