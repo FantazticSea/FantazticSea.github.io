@@ -1,6 +1,3 @@
-layout: false
----
-<?xml-stylesheet type="text/css" href="book.css"?>
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
@@ -56,7 +53,7 @@ layout: false
 
   
   <url>
-    <loc>https://fantasticsea.github.io/tags/Art/</loc>
+    <loc>https://fantasticsea.github.io/tags/greet/</loc>
     <lastmod>2021-06-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -70,7 +67,7 @@ layout: false
   </url>
   
   <url>
-    <loc>https://fantasticsea.github.io/tags/greet/</loc>
+    <loc>https://fantasticsea.github.io/tags/Art/</loc>
     <lastmod>2021-06-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
