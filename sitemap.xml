@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://fantasticsea.github.io/posts/d894b85c.html</loc>
+    
+    <lastmod>2021-10-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://fantasticsea.github.io/posts/f168bf92.html</loc>
+    
+    <lastmod>2021-10-18</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://fantasticsea.github.io/posts/bfdb824e.html</loc>
     
     <lastmod>2021-10-04</lastmod>
@@ -144,7 +158,7 @@
 
   <url>
     <loc>https://fantasticsea.github.io/</loc>
-    <lastmod>2021-10-04</lastmod>
+    <lastmod>2021-10-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -152,42 +166,49 @@
   
   <url>
     <loc>https://fantasticsea.github.io/tags/Photography/</loc>
-    <lastmod>2021-10-04</lastmod>
+    <lastmod>2021-10-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://fantasticsea.github.io/tags/Art/</loc>
-    <lastmod>2021-10-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://fantasticsea.github.io/tags/greet/</loc>
-    <lastmod>2021-10-04</lastmod>
+    <lastmod>2021-10-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://fantasticsea.github.io/tags/Knowlege/</loc>
-    <lastmod>2021-10-04</lastmod>
+    <lastmod>2021-10-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://fantasticsea.github.io/tags/greet/</loc>
+    <lastmod>2021-10-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://fantasticsea.github.io/tags/knowledge/</loc>
-    <lastmod>2021-10-04</lastmod>
+    <lastmod>2021-10-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://fantasticsea.github.io/tags/Diving/</loc>
+    <lastmod>2021-10-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://fantasticsea.github.io/tags/%E6%B7%A1%E6%B0%B4/</loc>
-    <lastmod>2021-10-04</lastmod>
+    <lastmod>2021-10-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
