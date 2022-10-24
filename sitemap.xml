@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://fantazticsea.github.io/friend/index.html</loc>
+    
+    <lastmod>2022-10-24</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://fantazticsea.github.io/album/index.html</loc>
     
     <lastmod>2022-10-24</lastmod>
@@ -170,6 +177,13 @@
   </url>
   
   <url>
+    <loc>https://fantazticsea.github.io/media/index.html</loc>
+    
+    <lastmod>2021-06-30</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://fantazticsea.github.io/message/index.html</loc>
     
     <lastmod>2021-06-30</lastmod>
@@ -178,6 +192,13 @@
   
   <url>
     <loc>https://fantazticsea.github.io/music/index.html</loc>
+    
+    <lastmod>2021-06-30</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://fantazticsea.github.io/self-talking/index.html</loc>
     
     <lastmod>2021-06-30</lastmod>
     
@@ -221,14 +242,14 @@
   </url>
   
   <url>
-    <loc>https://fantazticsea.github.io/tags/greet/</loc>
+    <loc>https://fantazticsea.github.io/tags/knowledge/</loc>
     <lastmod>2022-10-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://fantazticsea.github.io/tags/knowledge/</loc>
+    <loc>https://fantazticsea.github.io/tags/greet/</loc>
     <lastmod>2022-10-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
