@@ -2,14 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://fantazticsea.github.io/googleac013a5b33be326a.html</loc>
+    <loc>https://fantazticsea.github.io/album/index.html</loc>
     
-    <lastmod>2022-06-24</lastmod>
+    <lastmod>2022-10-24</lastmod>
     
   </url>
   
   <url>
-    <loc>https://fantazticsea.github.io/album/index.html</loc>
+    <loc>https://fantazticsea.github.io/about/index.html</loc>
+    
+    <lastmod>2022-10-24</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://fantazticsea.github.io/googleac013a5b33be326a.html</loc>
     
     <lastmod>2022-06-24</lastmod>
     
@@ -149,13 +156,6 @@
   </url>
   
   <url>
-    <loc>https://fantazticsea.github.io/friend/index.html</loc>
-    
-    <lastmod>2021-07-12</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://fantazticsea.github.io/posts/c77b8e29.html</loc>
     
     <lastmod>2021-06-30</lastmod>
@@ -163,21 +163,7 @@
   </url>
   
   <url>
-    <loc>https://fantazticsea.github.io/about/index.html</loc>
-    
-    <lastmod>2021-06-30</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://fantazticsea.github.io/posts/82df373d.html</loc>
-    
-    <lastmod>2021-06-30</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://fantazticsea.github.io/media/index.html</loc>
     
     <lastmod>2021-06-30</lastmod>
     
@@ -198,13 +184,6 @@
   </url>
   
   <url>
-    <loc>https://fantazticsea.github.io/self-talking/index.html</loc>
-    
-    <lastmod>2021-06-30</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://fantazticsea.github.io/posts/10dd8abd.html</loc>
     
     <lastmod>2021-06-24</lastmod>
@@ -214,7 +193,7 @@
 
   <url>
     <loc>https://fantazticsea.github.io/</loc>
-    <lastmod>2022-06-24</lastmod>
+    <lastmod>2022-10-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -222,49 +201,49 @@
   
   <url>
     <loc>https://fantazticsea.github.io/tags/Photography/</loc>
-    <lastmod>2022-06-24</lastmod>
+    <lastmod>2022-10-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://fantazticsea.github.io/tags/Art/</loc>
-    <lastmod>2022-06-24</lastmod>
+    <lastmod>2022-10-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://fantazticsea.github.io/tags/Knowlege/</loc>
-    <lastmod>2022-06-24</lastmod>
+    <lastmod>2022-10-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://fantazticsea.github.io/tags/greet/</loc>
-    <lastmod>2022-06-24</lastmod>
+    <lastmod>2022-10-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://fantazticsea.github.io/tags/knowledge/</loc>
-    <lastmod>2022-06-24</lastmod>
+    <lastmod>2022-10-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://fantazticsea.github.io/tags/Diving/</loc>
-    <lastmod>2022-06-24</lastmod>
+    <lastmod>2022-10-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://fantazticsea.github.io/tags/%E6%B7%A1%E6%B0%B4/</loc>
-    <lastmod>2022-06-24</lastmod>
+    <lastmod>2022-10-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
